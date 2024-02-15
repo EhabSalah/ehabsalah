@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehab Salah</h1>
-<h3 align="center">A passionate mobile developer from Egypt</h3>
+<h3 align="center">A passionate mobile developer from Egypt 🇪🇬</h3>
 
 - 🔭 I'm currently developing payments app in iOS and Android for a Fintech company in Egypt, Called [Flash Technologies.](https://www.linkedin.com/company/useflashapp/mycompany/)
 
