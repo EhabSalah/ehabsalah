@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ehab Salah</h1>
 <h3 align="center">A passionate mobile developer from Egypt 🇪🇬</h3>
 
-- 🔭 I'm currently developing payments app in iOS and Android for a Fintech company in Egypt, Called [Flash Technologies.](https://www.linkedin.com/company/useflashapp/mycompany/)
+- 🔭 I'm currently developing payments app in [iOS](https://apps.apple.com/us/app/flash-mobile-payments-bills/id1572821615) and [Android](https://play.google.com/store/apps/details?id=app.useflash.teller) for a Fintech company in Egypt, called [Flash Technologies.](https://www.linkedin.com/company/useflashapp/mycompany/)
 
 - 🌱 I’m currently learning how to build backend app by building small web app that would help people to track the value of their gold savings. **NodeJS for the backend and React for the frontend, Typescript for both.**
-
-- 📱 Flash on [AppStore.](https://apps.apple.com/us/app/flash-mobile-payments-bills/id1572821615)
-
-- 📱 Flash on [PlayStore.](https://play.google.com/store/apps/details?id=app.useflash.teller)
 
 - 💬 Ask me about **Dart, JAVA, Kotlin, Golang, Flutter, React Native, React, NodeJS.**
 
