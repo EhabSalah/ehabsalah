@@ -3,9 +3,9 @@
 
 - 🔭 I'm currently developing payments app in [iOS](https://apps.apple.com/us/app/flash-mobile-payments-bills/id1572821615) and [Android](https://play.google.com/store/apps/details?id=app.useflash.teller) for a Fintech company in Egypt, called [Flash Technologies.](https://www.linkedin.com/company/useflashapp/mycompany/)
 
-- 🌱 I’m currently learning backend development by building small web app that would help people to track the value of their gold savings. **NodeJS for the backend and React for the frontend, Typescript for both.**
+- 🌱 I’m currently learning backend development.
 
-- 💬 Ask me about **Dart, JAVA, Kotlin, Golang, Flutter, React Native, React, NodeJS.**
+- 💬 Ask me about **Dart, JAVA, Kotlin, Typescript, Golang, Flutter, React Native, React, NodeJS.**
 
 - 📫 How to reach me **ehab.salah020@gmail.com**
 
