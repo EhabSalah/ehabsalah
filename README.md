@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehab Salah</h1> <h3 align="center">A passionate backend software engineer</h3>
-🔭 I’m currently developing a payments app for Flash Technologies, a leading fintech company in Egypt, where I focus on backend engineering.
+🔭 I’m currently developing a payments app for [Flash Technologies](https://www.linkedin.com/company/useflashapp/posts/?feedView=all), a leading fintech company in Egypt, where I focus on backend engineering.
 
 🌱 I’m continually learning and exploring backend technologies to build scalable, efficient, and reliable systems.
 
