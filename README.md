@@ -3,7 +3,7 @@
 
 🔭 I’m currently developing a payments app for <a href="https://www.linkedin.com/company/useflashapp/posts/?feedView=all" target="_blank">Flash Technologies</a>, a leading fintech company in Egypt, where I focus on backend engineering.
 
-🌱 I’m continually learning and exploring backend technologies to build scalable, efficient, and reliable systems.
+📚 Always learning and exploring backend technologies for building scalable, efficient, and reliable systems.
 
 💬 Ask me about Golang, gRPC, GraphQL, PostgreSQL, Docker, Redis, Cloud Technologies (GCP), Microservices...
 
